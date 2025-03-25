@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const apiUrl = "http://3.84.43.30/api-php-world/api/get_countries.php";
+    const apiUrl = "3.84.43.30/api-php-world/api/get_countries.php";
     const tableBody = document.getElementById("countryTableBody");
   
     if (!tableBody) {
